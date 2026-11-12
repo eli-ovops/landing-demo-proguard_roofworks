@@ -1,0 +1,11 @@
+@media(max-width:760px){
+  body{overflow-x:hidden}
+  .site-header{gap:8px}
+  .brand{gap:6px;letter-spacing:.07em;min-width:0}
+  .brand-mark{width:25px}
+  .brand strong{font-size:15px}
+  .brand small{font-size:7px}
+  .header-call{font-size:12px}
+  .hero-copy{width:100%;min-width:0}
+  .hero h1{width:100%;max-width:100%;overflow-wrap:anywhere}
+}
